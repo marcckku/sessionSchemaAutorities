@@ -62,9 +62,9 @@
 	
 	
 	
-	##Scarica questo tutorial qui da command line: 
-	## + git remote add origin https://github.com/marcckku/sessionSchemaAutorities.git
-    ## + git push -u origin master
+	Scarica questo tutorial qui da command line: 
+	+ git remote add origin https://github.com/marcckku/sessionSchemaAutorities.git
+     + git push -u origin master
 	
 	
 		
